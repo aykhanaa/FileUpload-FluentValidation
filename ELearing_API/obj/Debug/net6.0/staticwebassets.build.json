@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "k7o2cUHPMPC//t05F8GpJw/gVvIFGVl3Qnq7CA6VxxA=",
+  "Source": "ELearing_API",
+  "BasePath": "_content/ELearing_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ELearing_API\\wwwroot",
+      "Source": "ELearing_API",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\wwwroot\\",
+      "BasePath": "_content/ELearing_API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\wwwroot\\img\\4eb89f81-25f7-4812-a4ad-fe72d3d1fdb7-Screenshot 2023-12-23 122717.png",
+      "SourceId": "ELearing_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\wwwroot\\",
+      "BasePath": "_content/ELearing_API",
+      "RelativePath": "img/4eb89f81-25f7-4812-a4ad-fe72d3d1fdb7-Screenshot 2023-12-23 122717.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\4eb89f81-25f7-4812-a4ad-fe72d3d1fdb7-Screenshot 2023-12-23 122717.png"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\wwwroot\\img\\665237c5-5953-4ce2-8fb3-96339c89d2b2-Screenshot 2023-12-23 122717.png",
+      "SourceId": "ELearing_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\wwwroot\\",
+      "BasePath": "_content/ELearing_API",
+      "RelativePath": "img/665237c5-5953-4ce2-8fb3-96339c89d2b2-Screenshot 2023-12-23 122717.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\665237c5-5953-4ce2-8fb3-96339c89d2b2-Screenshot 2023-12-23 122717.png"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\wwwroot\\img\\855bad43-3d7e-4a7d-ab83-f4e993961eb5-Screenshot 2023-12-23 122717.png",
+      "SourceId": "ELearing_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\wwwroot\\",
+      "BasePath": "_content/ELearing_API",
+      "RelativePath": "img/855bad43-3d7e-4a7d-ab83-f4e993961eb5-Screenshot 2023-12-23 122717.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\855bad43-3d7e-4a7d-ab83-f4e993961eb5-Screenshot 2023-12-23 122717.png"
+    }
+  ]
+}

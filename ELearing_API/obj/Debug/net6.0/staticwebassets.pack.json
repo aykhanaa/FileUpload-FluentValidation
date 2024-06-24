@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\wwwroot\\img\\4eb89f81-25f7-4812-a4ad-fe72d3d1fdb7-Screenshot 2023-12-23 122717.png",
+      "PackagePath": "staticwebassets\\img\\4eb89f81-25f7-4812-a4ad-fe72d3d1fdb7-Screenshot 2023-12-23 122717.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\wwwroot\\img\\665237c5-5953-4ce2-8fb3-96339c89d2b2-Screenshot 2023-12-23 122717.png",
+      "PackagePath": "staticwebassets\\img\\665237c5-5953-4ce2-8fb3-96339c89d2b2-Screenshot 2023-12-23 122717.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\wwwroot\\img\\855bad43-3d7e-4a7d-ab83-f4e993961eb5-Screenshot 2023-12-23 122717.png",
+      "PackagePath": "staticwebassets\\img\\855bad43-3d7e-4a7d-ab83-f4e993961eb5-Screenshot 2023-12-23 122717.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ELearing_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ELearing_API.props",
+      "PackagePath": "build\\ELearing_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ELearing_API.props",
+      "PackagePath": "buildMultiTargeting\\ELearing_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ELearing_API.props",
+      "PackagePath": "buildTransitive\\ELearing_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

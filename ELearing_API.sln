@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELearing_API", "ELearing_API\ELearing_API.csproj", "{3DA83051-EEA7-4CCF-9858-25EB20E58633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA83051-EEA7-4CCF-9858-25EB20E58633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA83051-EEA7-4CCF-9858-25EB20E58633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA83051-EEA7-4CCF-9858-25EB20E58633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA83051-EEA7-4CCF-9858-25EB20E58633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCD8A275-CC30-467B-8B31-2F67710E7F7F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\ELearing_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\services\\interface\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\services\\interface\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\services\\interface\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\services\\interface\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\dtos\\sliders\\slidereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\dtos\\sliders\\slidereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\dtos\\sliders\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\dtos\\sliders\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\dtos\\sliders\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\dtos\\sliders\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\migrations\\20240624002325_createdslidertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\migrations\\20240624002325_createdslidertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\helpers\\entityconfiguration\\sliderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\helpers\\entityconfiguration\\sliderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\services\\aboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\services\\aboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\dtos\\abouts\\aboutcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\dtos\\abouts\\aboutcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\helpers\\entityconfiguration\\aboutconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\helpers\\entityconfiguration\\aboutconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\dtos\\abouts\\abouteditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\dtos\\abouts\\abouteditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\dtos\\abouts\\aboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\dtos\\abouts\\aboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\migrations\\20240623215007_createdabouttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\migrations\\20240623215007_createdabouttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\helpers\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\helpers\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|c:\\users\\hp\\desktop\\elearing_api\\elearing_api\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA83051-EEA7-4CCF-9858-25EB20E58633}|ELearing_API\\ELearing_API.csproj|solutionrelative:elearing_api\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "ELearing_API\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:09:53.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Services\\SliderService.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Services\\SliderService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Services\\SliderService.cs",
+              "RelativeToolTip": "ELearing_API\\Services\\SliderService.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwE4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:05:44.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SliderEditDTo.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\DTOs\\Sliders\\SliderEditDTo.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\DTOs\\Sliders\\SliderEditDTo.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\DTOs\\Sliders\\SliderEditDTo.cs",
+              "RelativeToolTip": "ELearing_API\\DTOs\\Sliders\\SliderEditDTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:04:24.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SliderDTo.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\DTOs\\Sliders\\SliderDTo.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\DTOs\\Sliders\\SliderDTo.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\DTOs\\Sliders\\SliderDTo.cs",
+              "RelativeToolTip": "ELearing_API\\DTOs\\Sliders\\SliderDTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:04:00.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SliderCreateDTo.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\DTOs\\Sliders\\SliderCreateDTo.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\DTOs\\Sliders\\SliderCreateDTo.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\DTOs\\Sliders\\SliderCreateDTo.cs",
+              "RelativeToolTip": "ELearing_API\\DTOs\\Sliders\\SliderCreateDTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:03:06.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Services\\Interface\\ISliderService.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Services\\Interface\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Services\\Interface\\ISliderService.cs",
+              "RelativeToolTip": "ELearing_API\\Services\\Interface\\ISliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:01:40.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Program.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Program.cs",
+              "RelativeToolTip": "ELearing_API\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:22:00.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "ELearing_API\\Helpers\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:42:57.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240624002325_CreatedSliderTable.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Migrations\\20240624002325_CreatedSliderTable.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Migrations\\20240624002325_CreatedSliderTable.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Migrations\\20240624002325_CreatedSliderTable.cs",
+              "RelativeToolTip": "ELearing_API\\Migrations\\20240624002325_CreatedSliderTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T00:23:25.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Models\\Slider.cs",
+              "RelativeToolTip": "ELearing_API\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T00:19:26.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAboutService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Services\\Interface\\IAboutService.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Services\\Interface\\IAboutService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Services\\Interface\\IAboutService.cs",
+              "RelativeToolTip": "ELearing_API\\Services\\Interface\\IAboutService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:29:32.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SliderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Helpers\\EntityConfiguration\\SliderConfiguration.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Helpers\\EntityConfiguration\\SliderConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Helpers\\EntityConfiguration\\SliderConfiguration.cs",
+              "RelativeToolTip": "ELearing_API\\Helpers\\EntityConfiguration\\SliderConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T00:20:18.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "ELearing_API\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:48:31.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AboutService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Services\\AboutService.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Services\\AboutService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Services\\AboutService.cs",
+              "RelativeToolTip": "ELearing_API\\Services\\AboutService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:35:23.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AboutEditDTo.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\DTOs\\Abouts\\AboutEditDTo.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\DTOs\\Abouts\\AboutEditDTo.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\DTOs\\Abouts\\AboutEditDTo.cs",
+              "RelativeToolTip": "ELearing_API\\DTOs\\Abouts\\AboutEditDTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:33:01.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ELearing_API\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:36:13.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "ELearing_API\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:46:38.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AboutCreateDTo.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\DTOs\\Abouts\\AboutCreateDTo.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\DTOs\\Abouts\\AboutCreateDTo.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\DTOs\\Abouts\\AboutCreateDTo.cs",
+              "RelativeToolTip": "ELearing_API\\DTOs\\Abouts\\AboutCreateDTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:32:07.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AboutDTo.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\DTOs\\Abouts\\AboutDTo.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\DTOs\\Abouts\\AboutDTo.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\DTOs\\Abouts\\AboutDTo.cs",
+              "RelativeToolTip": "ELearing_API\\DTOs\\Abouts\\AboutDTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:32:39.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240623215007_CreatedAboutTable.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Migrations\\20240623215007_CreatedAboutTable.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Migrations\\20240623215007_CreatedAboutTable.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Migrations\\20240623215007_CreatedAboutTable.cs",
+              "RelativeToolTip": "ELearing_API\\Migrations\\20240623215007_CreatedAboutTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:50:08.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AboutConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Helpers\\EntityConfiguration\\AboutConfiguration.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Helpers\\EntityConfiguration\\AboutConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Helpers\\EntityConfiguration\\AboutConfiguration.cs",
+              "RelativeToolTip": "ELearing_API\\Helpers\\EntityConfiguration\\AboutConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:44:48.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Models\\About.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Models\\About.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Models\\About.cs",
+              "RelativeToolTip": "ELearing_API\\Models\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:41:54.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "ELearing_API\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:41:05.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Helpers\\Extensions\\FileExtension.cs",
+              "RelativeDocumentMoniker": "ELearing_API\\Helpers\\Extensions\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\Helpers\\Extensions\\FileExtension.cs",
+              "RelativeToolTip": "ELearing_API\\Helpers\\Extensions\\FileExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:43:58.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ELearing_API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ELearing_API\\ELearing_API\\appsettings.Development.json",
+              "RelativeToolTip": "ELearing_API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T21:46:37.622Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

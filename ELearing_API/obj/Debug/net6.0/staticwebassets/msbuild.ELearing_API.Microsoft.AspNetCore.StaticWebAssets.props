@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\4eb89f81-25f7-4812-a4ad-fe72d3d1fdb7-Screenshot 2023-12-23 122717.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>ELearing_API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ELearing_API</BasePath>
+      <RelativePath>img/4eb89f81-25f7-4812-a4ad-fe72d3d1fdb7-Screenshot 2023-12-23 122717.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\4eb89f81-25f7-4812-a4ad-fe72d3d1fdb7-Screenshot 2023-12-23 122717.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\665237c5-5953-4ce2-8fb3-96339c89d2b2-Screenshot 2023-12-23 122717.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>ELearing_API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ELearing_API</BasePath>
+      <RelativePath>img/665237c5-5953-4ce2-8fb3-96339c89d2b2-Screenshot 2023-12-23 122717.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\665237c5-5953-4ce2-8fb3-96339c89d2b2-Screenshot 2023-12-23 122717.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\855bad43-3d7e-4a7d-ab83-f4e993961eb5-Screenshot 2023-12-23 122717.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>ELearing_API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ELearing_API</BasePath>
+      <RelativePath>img/855bad43-3d7e-4a7d-ab83-f4e993961eb5-Screenshot 2023-12-23 122717.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\855bad43-3d7e-4a7d-ab83-f4e993961eb5-Screenshot 2023-12-23 122717.png))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
